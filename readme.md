@@ -1,4 +1,4 @@
-Apoorva Anand - 2037610
+Assignment spec can be found [here](https://github.com/apoorvaanand1998/LnC-1-iCalParser/blob/master/1-DateTime-iCal.pdf).
 
 Use pp to pretty print
 ppMonth only works if used with putStrLn
